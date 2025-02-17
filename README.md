@@ -77,24 +77,34 @@ smartphones.csv
 
 Folder Structure
 
-Web-Scraping-and-Data-Cleaning
-│── Data Gathering
+Web-Scraping-and-Data-Cleaning/
+
+│── Data Gathering/
+
 │   │── Mobile_Phone_Web_Scraping.ipynb  # Jupyter Notebook for scraping
+
 │   │── smartprix.py                     # Web scraping script
+
 │   │── smartprix.html                   # HTML file used for scraping
+
 │   │── smartphones.csv                    # Raw scraped data
-│
-│── Data Cleaning
+
+│── Data Cleaning/
+
 │   │── cleaning-1.ipynb                  # Data cleaning steps - Part 1
+
 │   │── cleaning-2.ipynb                  # Data cleaning steps - Part 2
+
 │   │── smartphone_cleaned_v1.csv         # Cleaned dataset version 1
+
 │   │── smartphone_data_cleaned.csv       # Final cleaned dataset
+
 │   │── smartphones.csv                   # Additional processed data
-│
+
 │── README.md                             # Project documentation
 
 Contributing
-
+                  
 Feel free to submit issues or pull requests if you want to improve the project. Contributions are welcome!
       
 Contact
@@ -105,3 +115,4 @@ GitHub: RohitKunjadiya
 
 Email: rohitkunjadiya1919@gmail.com
 
+      
