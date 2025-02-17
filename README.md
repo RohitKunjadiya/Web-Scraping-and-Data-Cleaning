@@ -2,7 +2,7 @@ Web Scraping and Data Cleaning
 
 Overview
 
-This project focuses on web scraping data from the web and performing data cleaning to prepare it for analysis. 
+This project focuses on web scraping data from the web and performing data cleaning to prepare it for analysis.(Website: smartprix.com)
 The project demonstrates techniques such as extracting data from websites using BeautifulSoup and Selenium, handling missing values, removing duplicates, and performing feature engineering.
 
 Features
@@ -10,8 +10,6 @@ Features
 Web Scraping: Extracts data from a website using BeautifulSoup and Selenium.
 
 Data Cleaning: Handles missing values, removes duplicates, and processes inconsistent data.
-
-Exploratory Data Analysis (EDA): Performs an initial analysis to understand the dataset.
 
 Data Preprocessing: Transforms raw data into a structured format for analysis.
 
